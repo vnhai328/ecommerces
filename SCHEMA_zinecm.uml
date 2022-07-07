@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>3219f395-43d3-4a84-8ab9-f4ad4366c75b.SCHEMA:zinecm</OriginalElement>
+  <nodes>
+    <node x="2428.0" y="6177.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.subscribers</node>
+    <node x="3968.8205459770115" y="1579.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.uploads</node>
+    <node x="1291.7372126436778" y="5278.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.wishlists</node>
+    <node x="3554.3205459770115" y="3825.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.attribute_category</node>
+    <node x="5678.320545977011" y="450.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.payku_payments</node>
+    <node x="4946.181034482759" y="2382.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.cities</node>
+    <node x="639.9704022988501" y="5801.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.commission_histories</node>
+    <node x="250.0" y="6177.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.languages</node>
+    <node x="3191.5705459770115" y="1631.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.seller_withdraw_requests</node>
+    <node x="5058.820545977011" y="696.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.countries</node>
+    <node x="3968.75" y="3807.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.attribute_values</node>
+    <node x="5349.820545977011" y="1596.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.customer_package_payments</node>
+    <node x="0.0" y="1666.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.role_translations</node>
+    <node x="4260.8205459770115" y="5243.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.flash_deal_products</node>
+    <node x="1557.4872126436778" y="5225.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.product_translations</node>
+    <node x="4402.75" y="3702.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.flash_deals</node>
+    <node x="1301.0" y="6177.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.app_translations</node>
+    <node x="2236.25" y="2434.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.coupon_usages</node>
+    <node x="5071.303735632184" y="3685.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.addresses</node>
+    <node x="4873.303735632184" y="3807.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.city_translations</node>
+    <node x="5990.320545977011" y="0.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.pages</node>
+    <node x="2112.820545977011" y="346.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users</node>
+    <node x="2651.0" y="6177.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.migrations</node>
+    <node x="1578.5" y="1596.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.transactions</node>
+    <node x="775.0" y="6177.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.currencies</node>
+    <node x="1982.0" y="6177.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.colors</node>
+    <node x="3023.553735632184" y="5225.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.customer_product_translations</node>
+    <node x="2678.75" y="3650.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.blogs</node>
+    <node x="1905.0" y="1404.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.shops</node>
+    <node x="2451.75" y="3807.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.category_translations</node>
+    <node x="3195.5705459770115" y="2452.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.attributes</node>
+    <node x="5256.820545977011" y="713.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.customer_package_translations</node>
+    <node x="1535.0" y="6177.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.business_settings</node>
+    <node x="2886.75" y="3440.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.customer_products</node>
+    <node x="232.48721264367805" y="5208.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.proxypay_payments</node>
+    <node x="6277.320545977011" y="0.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.personal_access_tokens</node>
+    <node x="71.75" y="731.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.roles</node>
+    <node x="6022.320545977011" y="486.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.page_translations</node>
+    <node x="2535.0" y="1701.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.customers</node>
+    <node x="3770.75" y="3825.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.taxes</node>
+    <node x="5303.320545977011" y="0.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.customer_packages</node>
+    <node x="1818.5" y="2364.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.brands</node>
+    <node x="1787.2372126436778" y="5208.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.product_stocks</node>
+    <node x="4501.25" y="5260.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.flash_deal_translations</node>
+    <node x="513.0" y="6177.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.notifications</node>
+    <node x="0.0" y="6177.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.firebase_notifications</node>
+    <node x="2205.0" y="6177.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.searches</node>
+    <node x="5716.320545977011" y="0.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.payku_transactions</node>
+    <node x="1036.0" y="6177.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.blog_categories</node>
+    <node x="1204.9872126436778" y="2242.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.sellers</node>
+    <node x="4179.75" y="3807.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.attribute_translations</node>
+    <node x="399.23721264367805" y="1666.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.messages</node>
+    <node x="183.73721264367805" y="2364.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.pickup_points</node>
+    <node x="598.2372126436778" y="3510.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.orders</node>
+    <node x="1759.0" y="6177.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.translations</node>
+    <node x="883.9872126436778" y="1649.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.wallets</node>
+    <node x="2993.5705459770115" y="1579.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.tickets</node>
+    <node x="2161.0" y="1579.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.coupons</node>
+    <node x="2189.75" y="3807.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.home_categories</node>
+    <node x="669.9872126436778" y="1666.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.combined_orders</node>
+    <node x="6556.320545977011" y="0.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.addons</node>
+    <node x="660.2204022988501" y="5085.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.order_details</node>
+    <node x="2434.25" y="2242.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.categories</node>
+    <node x="279.75" y="678.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.conversations</node>
+    <node x="5009.070545977011" y="1649.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.states</node>
+    <node x="3625.303735632184" y="5243.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.product_taxes</node>
+    <node x="198.73721264367805" y="1684.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.staff</node>
+    <node x="1905.25" y="2915.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.products</node>
+    <node x="2877.0" y="6177.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.password_resets</node>
+    <node x="4784.5" y="5033.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.carts</node>
+    <node x="2943.8205459770115" y="2399.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.ticket_replies</node>
+    <node x="1701.25" y="3807.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.brand_translations</node>
+    <node x="1137.9872126436778" y="3772.5">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.payments</node>
+    <node x="2550.97040229885" y="5208.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.reviews</node>
+    <node x="38.23721264367805" y="3790.0">3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.pickup_point_translations</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.order_details" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.products" relationship="REFERENCES">
+      <point x="99.0" y="-305.5" />
+      <point x="891.2204022988501" y="5002.0" />
+      <point x="2031.75" y="5002.0" />
+      <point x="0.0" y="1023.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.category_translations" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.categories" relationship="REFERENCES">
+      <point x="0.0" y="-130.5" />
+      <point x="2555.25" y="2884.0" />
+      <point x="2541.75" y="2884.0" />
+      <point x="0.0" y="305.5" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.sellers" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" relationship="REFERENCES">
+      <point x="0.0" y="-305.5" />
+      <point x="1317.9872126436778" y="1373.0" />
+      <point x="2240.820545977011" y="1373.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.wallets" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" relationship="REFERENCES">
+      <point x="0.0" y="-148.0" />
+      <point x="1000.4872126436778" y="1373.0" />
+      <point x="2240.820545977011" y="1373.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.coupons" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" relationship="REFERENCES">
+      <point x="0.0" y="-218.0" />
+      <point x="2267.0" y="1373.0" />
+      <point x="2240.820545977011" y="1373.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.customer_products" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" relationship="REFERENCES">
+      <point x="78.0" y="-498.0" />
+      <point x="3081.75" y="2874.0" />
+      <point x="2933.3205459770115" y="2874.0" />
+      <point x="2933.3205459770115" y="1373.0" />
+      <point x="2240.820545977011" y="1373.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.products" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.categories" relationship="REFERENCES">
+      <point x="84.33333333333348" y="-1023.0" />
+      <point x="2116.0833333333335" y="2884.0" />
+      <point x="2541.75" y="2884.0" />
+      <point x="0.0" y="305.5" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.attribute_translations" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.attributes" relationship="REFERENCES">
+      <point x="0.0" y="-130.5" />
+      <point x="4281.25" y="2894.0" />
+      <point x="4047.8205459770115" y="2894.0" />
+      <point x="4047.8205459770115" y="2874.0" />
+      <point x="3284.5705459770115" y="2874.0" />
+      <point x="0.0" y="95.5" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.combined_orders" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" relationship="REFERENCES">
+      <point x="0.0" y="-130.5" />
+      <point x="766.9872126436778" y="1373.0" />
+      <point x="2240.820545977011" y="1373.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.carts" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.products" relationship="REFERENCES">
+      <point x="-88.0" y="-358.0" />
+      <point x="4828.5" y="5002.0" />
+      <point x="2031.75" y="5002.0" />
+      <point x="0.0" y="1023.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.payments" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.sellers" relationship="REFERENCES">
+      <point x="0.0" y="-165.5" />
+      <point x="1254.4872126436778" y="2894.0" />
+      <point x="1317.9872126436778" y="2894.0" />
+      <point x="0.0" y="305.5" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.city_translations" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.cities" relationship="REFERENCES">
+      <point x="0.0" y="-130.5" />
+      <point x="4962.303735632184" y="2894.0" />
+      <point x="5035.181034482759" y="2894.0" />
+      <point x="0.0" y="165.5" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.addresses" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" relationship="REFERENCES">
+      <point x="-74.625" y="-253.0" />
+      <point x="5096.178735632184" y="2884.0" />
+      <point x="4935.681034482759" y="2884.0" />
+      <point x="4935.681034482759" y="1373.0" />
+      <point x="2240.820545977011" y="1373.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.order_details" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.orders" relationship="REFERENCES">
+      <point x="-99.0" y="-305.5" />
+      <point x="693.2204022988501" y="5012.0" />
+      <point x="446.98721264367805" y="5012.0" />
+      <point x="446.98721264367805" y="4982.0" />
+      <point x="713.2372126436778" y="4982.0" />
+      <point x="0.0" y="428.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.attribute_category" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.categories" relationship="REFERENCES">
+      <point x="-45.0" y="-113.0" />
+      <point x="3599.3205459770115" y="2884.0" />
+      <point x="2541.75" y="2884.0" />
+      <point x="0.0" y="305.5" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.coupon_usages" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.coupons" relationship="REFERENCES">
+      <point x="-44.5" y="-113.0" />
+      <point x="2280.75" y="2216.0" />
+      <point x="2267.0" y="2216.0" />
+      <point x="0.0" y="218.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.flash_deal_products" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.products" relationship="REFERENCES">
+      <point x="-51.0" y="-148.0" />
+      <point x="4311.8205459770115" y="5002.0" />
+      <point x="2031.75" y="5002.0" />
+      <point x="0.0" y="1023.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.flash_deal_translations" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.flash_deals" relationship="REFERENCES">
+      <point x="0.0" y="-130.5" />
+      <point x="4611.25" y="5012.0" />
+      <point x="4520.75" y="5012.0" />
+      <point x="0.0" y="235.5" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.product_taxes" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.taxes" relationship="REFERENCES">
+      <point x="44.5" y="-148.0" />
+      <point x="3758.803735632184" y="4992.0" />
+      <point x="3859.75" y="4992.0" />
+      <point x="0.0" y="113.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.cities" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.states" relationship="REFERENCES">
+      <point x="0.0" y="-165.5" />
+      <point x="5035.181034482759" y="2216.0" />
+      <point x="5098.070545977011" y="2216.0" />
+      <point x="0.0" y="148.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.messages" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.conversations" relationship="REFERENCES">
+      <point x="-44.5" y="-130.5" />
+      <point x="443.73721264367805" y="1363.0" />
+      <point x="368.75" y="1363.0" />
+      <point x="0.0" y="165.5" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.blogs" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.categories" relationship="REFERENCES">
+      <point x="0.0" y="-288.0" />
+      <point x="2772.75" y="2884.0" />
+      <point x="2541.75" y="2884.0" />
+      <point x="0.0" y="305.5" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.coupon_usages" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" relationship="REFERENCES">
+      <point x="44.5" y="-113.0" />
+      <point x="2369.75" y="2216.0" />
+      <point x="2383.5" y="2216.0" />
+      <point x="2383.5" y="1373.0" />
+      <point x="2240.820545977011" y="1373.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.reviews" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" relationship="REFERENCES">
+      <point x="44.5" y="-183.0" />
+      <point x="2684.47040229885" y="4992.0" />
+      <point x="3443.0705459770115" y="4992.0" />
+      <point x="3443.0705459770115" y="1373.0" />
+      <point x="2240.820545977011" y="1373.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.customer_products" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.brands" relationship="REFERENCES">
+      <point x="-78.0" y="-498.0" />
+      <point x="2925.75" y="2894.0" />
+      <point x="1912.5" y="2894.0" />
+      <point x="0.0" y="183.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.staff" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.roles" relationship="REFERENCES">
+      <point x="-44.5" y="-113.0" />
+      <point x="243.23721264367805" y="1383.0" />
+      <point x="165.75" y="1383.0" />
+      <point x="0.0" y="113.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.seller_withdraw_requests" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" relationship="REFERENCES">
+      <point x="0.0" y="-165.5" />
+      <point x="3312.0705459770115" y="1373.0" />
+      <point x="2240.820545977011" y="1373.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.wishlists" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.products" relationship="REFERENCES">
+      <point x="44.5" y="-113.0" />
+      <point x="1425.2372126436778" y="5002.0" />
+      <point x="2031.75" y="5002.0" />
+      <point x="0.0" y="1023.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.product_stocks" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.products" relationship="REFERENCES">
+      <point x="0.0" y="-183.0" />
+      <point x="1876.2372126436778" y="5002.0" />
+      <point x="2031.75" y="5002.0" />
+      <point x="0.0" y="1023.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.home_categories" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.categories" relationship="REFERENCES">
+      <point x="0.0" y="-130.5" />
+      <point x="2310.75" y="2884.0" />
+      <point x="2541.75" y="2884.0" />
+      <point x="0.0" y="305.5" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.addresses" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.countries" relationship="REFERENCES">
+      <point x="74.625" y="-253.0" />
+      <point x="5245.428735632184" y="2894.0" />
+      <point x="5256.428735632184" y="2894.0" />
+      <point x="5256.428735632184" y="1383.0" />
+      <point x="5147.820545977011" y="1383.0" />
+      <point x="0.0" y="148.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.carts" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" relationship="REFERENCES">
+      <point x="0.0" y="-358.0" />
+      <point x="4916.5" y="5012.0" />
+      <point x="4862.803735632184" y="5012.0" />
+      <point x="4862.803735632184" y="1373.0" />
+      <point x="2240.820545977011" y="1373.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.ticket_replies" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" relationship="REFERENCES">
+      <point x="-44.5" y="-148.0" />
+      <point x="2988.3205459770115" y="2216.0" />
+      <point x="2983.0705459770115" y="2216.0" />
+      <point x="2983.0705459770115" y="1373.0" />
+      <point x="2240.820545977011" y="1373.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.attribute_values" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.attributes" relationship="REFERENCES">
+      <point x="0.0" y="-130.5" />
+      <point x="4064.25" y="2894.0" />
+      <point x="4047.8205459770115" y="2894.0" />
+      <point x="4047.8205459770115" y="2874.0" />
+      <point x="3284.5705459770115" y="2874.0" />
+      <point x="0.0" y="95.5" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.customer_products" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.categories" relationship="REFERENCES">
+      <point x="0.0" y="-498.0" />
+      <point x="3003.75" y="2884.0" />
+      <point x="2541.75" y="2884.0" />
+      <point x="0.0" y="305.5" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.transactions" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" relationship="REFERENCES">
+      <point x="0.0" y="-200.5" />
+      <point x="1688.0" y="1373.0" />
+      <point x="2240.820545977011" y="1373.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.customer_package_translations" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.customer_packages" relationship="REFERENCES">
+      <point x="0.0" y="-130.5" />
+      <point x="0.0" y="148.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.order_details" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.sellers" relationship="REFERENCES">
+      <point x="33.0" y="-305.5" />
+      <point x="825.2204022988501" y="4992.0" />
+      <point x="1381.4872126436778" y="4992.0" />
+      <point x="1381.4872126436778" y="2894.0" />
+      <point x="1317.9872126436778" y="2894.0" />
+      <point x="0.0" y="305.5" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.brand_translations" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.brands" relationship="REFERENCES">
+      <point x="0.0" y="-130.5" />
+      <point x="1793.25" y="2894.0" />
+      <point x="1912.5" y="2894.0" />
+      <point x="0.0" y="183.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.staff" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" relationship="REFERENCES">
+      <point x="44.5" y="-113.0" />
+      <point x="332.23721264367805" y="1373.0" />
+      <point x="2240.820545977011" y="1373.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.products" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" relationship="REFERENCES">
+      <point x="-84.33333333333326" y="-1023.0" />
+      <point x="1947.4166666666667" y="2884.0" />
+      <point x="1808.0" y="2884.0" />
+      <point x="1808.0" y="1373.0" />
+      <point x="2240.820545977011" y="1373.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.addresses" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.states" relationship="REFERENCES">
+      <point x="24.875" y="-253.0" />
+      <point x="5195.678735632184" y="2884.0" />
+      <point x="5245.428735632184" y="2884.0" />
+      <point x="5245.428735632184" y="2216.0" />
+      <point x="5098.070545977011" y="2216.0" />
+      <point x="0.0" y="148.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.orders" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" relationship="REFERENCES">
+      <point x="-28.75" y="-428.0" />
+      <point x="684.4872126436778" y="2894.0" />
+      <point x="659.4872126436778" y="2894.0" />
+      <point x="659.4872126436778" y="1373.0" />
+      <point x="2240.820545977011" y="1373.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.pickup_point_translations" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.pickup_points" relationship="REFERENCES">
+      <point x="0.0" y="-148.0" />
+      <point x="157.73721264367805" y="2894.0" />
+      <point x="287.73721264367805" y="2894.0" />
+      <point x="0.0" y="183.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.customer_package_payments" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.customer_packages" relationship="REFERENCES">
+      <point x="69.5" y="-200.5" />
+      <point x="5558.320545977011" y="321.0" />
+      <point x="5402.320545977011" y="321.0" />
+      <point x="0.0" y="148.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.tickets" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" relationship="REFERENCES">
+      <point x="0.0" y="-218.0" />
+      <point x="3082.5705459770115" y="1373.0" />
+      <point x="2240.820545977011" y="1373.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.ticket_replies" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.tickets" relationship="REFERENCES">
+      <point x="44.5" y="-148.0" />
+      <point x="3077.3205459770115" y="2216.0" />
+      <point x="3082.5705459770115" y="2216.0" />
+      <point x="0.0" y="218.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.page_translations" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.pages" relationship="REFERENCES">
+      <point x="0.0" y="-148.0" />
+      <point x="0.0" y="218.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.commission_histories" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.orders" relationship="REFERENCES">
+      <point x="-81.0" y="-165.5" />
+      <point x="680.4704022988501" y="5775.0" />
+      <point x="446.98721264367805" y="5775.0" />
+      <point x="446.98721264367805" y="4982.0" />
+      <point x="713.2372126436778" y="4982.0" />
+      <point x="0.0" y="428.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.uploads" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" relationship="REFERENCES">
+      <point x="-4.547473508864641E-13" y="-218.0" />
+      <point x="4088.3205459770106" y="1373.0" />
+      <point x="2240.820545977011" y="1373.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.proxypay_payments" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.orders" relationship="REFERENCES">
+      <point x="51.0" y="-183.0" />
+      <point x="385.48721264367805" y="5012.0" />
+      <point x="446.98721264367805" y="5012.0" />
+      <point x="446.98721264367805" y="4982.0" />
+      <point x="713.2372126436778" y="4982.0" />
+      <point x="0.0" y="428.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.messages" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" relationship="REFERENCES">
+      <point x="44.5" y="-130.5" />
+      <point x="532.737212643678" y="1373.0" />
+      <point x="2240.820545977011" y="1373.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.states" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.countries" relationship="REFERENCES">
+      <point x="0.0" y="-148.0" />
+      <point x="5098.070545977011" y="1383.0" />
+      <point x="5147.820545977011" y="1383.0" />
+      <point x="0.0" y="148.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.carts" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.addresses" relationship="REFERENCES">
+      <point x="88.0" y="-358.0" />
+      <point x="5004.5" y="5012.0" />
+      <point x="5170.803735632184" y="5012.0" />
+      <point x="0.0" y="253.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.order_details" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.pickup_points" relationship="REFERENCES">
+      <point x="-33.0" y="-305.5" />
+      <point x="759.2204022988501" y="4992.0" />
+      <point x="287.73721264367805" y="4992.0" />
+      <point x="0.0" y="183.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.customer_package_payments" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" relationship="REFERENCES">
+      <point x="-69.5" y="-200.5" />
+      <point x="5419.320545977011" y="1373.0" />
+      <point x="2240.820545977011" y="1373.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.commission_histories" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.sellers" relationship="REFERENCES">
+      <point x="81.0" y="-165.5" />
+      <point x="842.4704022988501" y="5775.0" />
+      <point x="1535.2372126436778" y="5775.0" />
+      <point x="1535.2372126436778" y="2894.0" />
+      <point x="1317.9872126436778" y="2894.0" />
+      <point x="0.0" y="305.5" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.reviews" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.products" relationship="REFERENCES">
+      <point x="-44.5" y="-183.0" />
+      <point x="2595.47040229885" y="5002.0" />
+      <point x="2031.75" y="5002.0" />
+      <point x="0.0" y="1023.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.wishlists" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" relationship="REFERENCES">
+      <point x="-44.5" y="-113.0" />
+      <point x="1336.2372126436778" y="4982.0" />
+      <point x="1127.4872126436778" y="4982.0" />
+      <point x="1127.4872126436778" y="1373.0" />
+      <point x="2240.820545977011" y="1373.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.customer_packages" relationship="REFERENCES">
+      <point x="0.0" y="-498.0" />
+      <point x="2240.820545977011" y="321.0" />
+      <point x="5402.320545977011" y="321.0" />
+      <point x="0.0" y="148.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.product_translations" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.products" relationship="REFERENCES">
+      <point x="0.0" y="-165.5" />
+      <point x="1656.4872126436778" y="5002.0" />
+      <point x="2031.75" y="5002.0" />
+      <point x="0.0" y="1023.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.role_translations" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.roles" relationship="REFERENCES">
+      <point x="0.0" y="-130.5" />
+      <point x="89.0" y="1383.0" />
+      <point x="165.75" y="1383.0" />
+      <point x="0.0" y="113.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.products" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.brands" relationship="REFERENCES">
+      <point x="0.0" y="-1023.0" />
+      <point x="2031.75" y="2894.0" />
+      <point x="1912.5" y="2894.0" />
+      <point x="0.0" y="183.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.flash_deal_products" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.flash_deals" relationship="REFERENCES">
+      <point x="51.0" y="-148.0" />
+      <point x="4413.8205459770115" y="5012.0" />
+      <point x="4520.75" y="5012.0" />
+      <point x="0.0" y="235.5" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.commission_histories" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.order_details" relationship="REFERENCES">
+      <point x="0.0" y="-165.5" />
+      <point x="761.4704022988501" y="5775.0" />
+      <point x="792.2204022988501" y="5775.0" />
+      <point x="0.0" y="305.5" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.pickup_points" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.staff" relationship="REFERENCES">
+      <point x="0.0" y="-183.0" />
+      <point x="0.0" y="113.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.addresses" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.cities" relationship="REFERENCES">
+      <point x="-24.875" y="-253.0" />
+      <point x="5145.928735632184" y="2894.0" />
+      <point x="5035.181034482759" y="2894.0" />
+      <point x="0.0" y="165.5" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.customer_product_translations" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.customer_products" relationship="REFERENCES">
+      <point x="0.0" y="-165.5" />
+      <point x="3165.053735632184" y="4982.0" />
+      <point x="3003.75" y="4982.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.orders" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.pickup_points" relationship="REFERENCES">
+      <point x="-86.25" y="-428.0" />
+      <point x="626.9872126436778" y="2894.0" />
+      <point x="287.73721264367805" y="2894.0" />
+      <point x="0.0" y="183.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.customers" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" relationship="REFERENCES">
+      <point x="0.0" y="-95.5" />
+      <point x="2624.0" y="1373.0" />
+      <point x="2240.820545977011" y="1373.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.product_taxes" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.products" relationship="REFERENCES">
+      <point x="-44.5" y="-148.0" />
+      <point x="3669.803735632184" y="5002.0" />
+      <point x="2031.75" y="5002.0" />
+      <point x="0.0" y="1023.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.proxypay_payments" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" relationship="REFERENCES">
+      <point x="-51.0" y="-183.0" />
+      <point x="283.48721264367805" y="5002.0" />
+      <point x="587.7372126436778" y="5002.0" />
+      <point x="587.7372126436778" y="1373.0" />
+      <point x="2240.820545977011" y="1373.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.orders" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.sellers" relationship="REFERENCES">
+      <point x="86.25" y="-428.0" />
+      <point x="799.4872126436778" y="2894.0" />
+      <point x="1317.9872126436778" y="2894.0" />
+      <point x="0.0" y="305.5" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.attribute_category" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.attributes" relationship="REFERENCES">
+      <point x="45.0" y="-113.0" />
+      <point x="3689.3205459770115" y="2894.0" />
+      <point x="4047.8205459770115" y="2894.0" />
+      <point x="4047.8205459770115" y="2874.0" />
+      <point x="3284.5705459770115" y="2874.0" />
+      <point x="0.0" y="95.5" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.payku_payments" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.payku_transactions" relationship="REFERENCES">
+      <point x="0.0" y="-287.5" />
+      <point x="0.0" y="200.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.shops" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.users" relationship="REFERENCES">
+      <point x="0.0" y="-393.0" />
+      <point x="2023.0" y="1373.0" />
+      <point x="2240.820545977011" y="1373.0" />
+      <point x="0.0" y="498.0" />
+    </edge>
+    <edge source="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.orders" target="3219f395-43d3-4a84-8ab9-f4ad4366c75b.TABLE:zinecm.combined_orders" relationship="REFERENCES">
+      <point x="28.75" y="-428.0" />
+      <point x="741.9872126436778" y="2894.0" />
+      <point x="766.9872126436778" y="2894.0" />
+      <point x="0.0" y="130.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.12621216573611518" showDependencies="false" x="3393.0000000000005" y="3271.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Columns</Category>
+    <Category>Key columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+
